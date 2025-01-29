@@ -1,3 +1,4 @@
+//alert(1);
 //ex1
 //1
 const postParageaphs = document.querySelectorAll(".post > p");

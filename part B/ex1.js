@@ -23,7 +23,7 @@ function PasswordInpKeyUP(element) {
   let containsNmubers = false;
   arrPassword.forEach((number) => {
     if (passwordInp.value.includes(number)) {
-      let containsNumbers = true;
+      containsNmubers = true;
     }
   });
 
